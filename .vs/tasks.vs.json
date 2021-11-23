@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tarea-Practicas_ClaseUnidad2",
+      "appliesTo": "Practicas_ClaseUnidad2/",
+      "type": "launch"
+    }
+  ]
+}
